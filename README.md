@@ -18,7 +18,7 @@ This is a backend API for a Team Workspace Management System built using **Expre
 - **Validation**
   - Zod validation for API requests 
 - **Documentation**
-  - Swagger API docs available at - pending
+  - Swagger API  - pending
 
 ---
 
