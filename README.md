@@ -16,9 +16,9 @@ This is a backend API for a Team Workspace Management System built using **Expre
   - Files: upload, list
   - Auth: signup, login, logout, refresh token, profile
 - **Validation**
-  - Zod validation for API requests
+  - Zod validation for API requests 
 - **Documentation**
-  - Swagger API docs available at `/api-docs`
+  - Swagger API docs available at - pending
 
 ---
 
@@ -29,8 +29,8 @@ This is a backend API for a Team Workspace Management System built using **Expre
 - Prisma ORM
 - Zod validation library
 - JWT for authentication
-- Swagger for API documentation
-- Deployment: Render / Railway
+- Swagger for API documentation 
+- Deployment: Render / Railway - not done
 
 ---
 
