@@ -1,0 +1,19 @@
+                                 List of databases
+       Name        |  Owner   | Encoding | Collate | Ctype |   Access privileges   
+-------------------+----------+----------+---------+-------+-----------------------
+ cicddb            | postgres | UTF8     | en_IN   | en_IN | =Tc/postgres         +
+                   |          |          |         |       | postgres=CTc/postgres+
+                   |          |          |         |       | myuser=CTc/postgres
+ jpa               | postgres | UTF8     | en_IN   | en_IN | 
+ jpa1              | postgres | UTF8     | en_IN   | en_IN | 
+ jpa3              | postgres | UTF8     | en_IN   | en_IN | 
+ microservices     | postgres | UTF8     | en_IN   | en_IN | 
+ postgres          | postgres | UTF8     | en_IN   | en_IN | 
+ restore_local     | postgres | UTF8     | en_IN   | en_IN | 
+ team_workspace_db | postgres | UTF8     | en_IN   | en_IN | 
+ template0         | postgres | UTF8     | en_IN   | en_IN | =c/postgres          +
+                   |          |          |         |       | postgres=CTc/postgres
+ template1         | postgres | UTF8     | en_IN   | en_IN | =c/postgres          +
+                   |          |          |         |       | postgres=CTc/postgres
+(10 rows)
+
